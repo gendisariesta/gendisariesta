@@ -1,5 +1,12 @@
-## Hi there 👋
+## Hi there, **I'm Gendis** 👋
+## 
 
+
+## 🚀 Tech Stack:
+![Your Skills](https://skillicons.dev/icons?i=js,react,nextjs,ts,python,html,css)
+
+
+⭐️ From [gendisariesta](https://github.com/gendisariesta)
 <!--
 **gendisariesta/gendisariesta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
