@@ -8,7 +8,7 @@
 
 Hi! I’m **Gendis** — a curious coder, lifelong learner, and professional imaginator ☁️✨
 
-🚀 I love writing clean code that solves real problems  
+🚀 I love writing code that solves real problems
 🛠️ I build all projects with a focus on usefulness and joy
 
 > *"Code what matters, dream beyond the clouds."* 🌠
@@ -30,7 +30,7 @@ Hi! I’m **Gendis** — a curious coder, lifelong learner, and professional ima
 
 ## 🌌 Let’s Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/gendisariesta)  
-📫 gendispragitaputri@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/gendisariesta)
+[![Email](https://img.shields.io/badge/Email-gmail-red?logo=gmail)](mailto:gendispragitaputri@gmail.com)
 
 ---
