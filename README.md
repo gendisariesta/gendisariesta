@@ -1,27 +1,41 @@
-## Hi there, **I'm Gendis** 👋
-## 
+<!-- Banner -->
+<p align="center">
+  <img src="https://i.imgur.com/9yC2qVZ.gif" width="100%" alt="galaxy banner">
+</p>
 
+<h1 align="center">Hi there, I'm Gendis Ariesta 👩‍🚀</h1>
 
-## 🚀 Tech Stack:
-![Your Skills](https://skillicons.dev/icons?i=js,react,nextjs,ts,python,html,css)
+<p align="center">Building cool things across space and syntax. ☄️</p>
 
+---
 
-## 📫 Connect With Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/gendisariesta)
-[![Email](https://img.shields.io/badge/Email-gmail-red?logo=gmail)](mailto:gendispragitaputri@gmail.com)
+## 🌌 About Me
 
-⭐️ From [gendisariesta](https://github.com/gendisariesta)
-<!--
-**gendisariesta/gendisariesta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I’m **Gendis** — a curious coder, lifelong learner, and professional imaginator ☁️✨
 
-Here are some ideas to get you started:
+🚀 I love writing clean code that solves real problems  
+🛠️ I build all projects with a focus on usefulness and joy
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> *"Code what matters, dream beyond the clouds."* 🌠
+
+---
+
+## 🌠 Tech Stack
+
+![Tech](https://skillicons.dev/icons?i=js,ts,react,nextjs,python,php,laravel,django,html,css,git&theme=dark)
+
+---
+
+## 🛰️ My Stats
+
+![Gendis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gendisariesta&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gendisariesta&layout=compact&theme=tokyonight)
+
+---
+
+## 🌌 Let’s Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/gendisariesta)  
+📫 gendispragitaputri@gmail.com
+
+---
