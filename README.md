@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/9yC2qVZ.gif" width="100%" alt="galaxy banner">
+  <img src="https://i.pinimg.com/736x/06/e8/a1/06e8a182a0b167deda047920f2165085.jpg" width="100%" alt="galaxy banner">
 </p>
 
 <h1 align="center">Hi there, I'm Gendis Ariesta 👩‍🚀</h1>
