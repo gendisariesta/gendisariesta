@@ -6,6 +6,10 @@
 ![Your Skills](https://skillicons.dev/icons?i=js,react,nextjs,ts,python,html,css)
 
 
+## 📫 Connect With Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/gendisariesta)
+[![Email](https://img.shields.io/badge/Email-gmail-red?logo=gmail)](mailto:gendispragitaputri@gmail.com)
+
 ⭐️ From [gendisariesta](https://github.com/gendisariesta)
 <!--
 **gendisariesta/gendisariesta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
